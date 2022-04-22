@@ -8,6 +8,10 @@
 <?php foreach ($news as $news_item): ?>
 
         <h3><?= $news_item['title']; ?></h3>
+        <?php if($news_item['importance'] == 1)
+                
+                echo "<h3 style='background-color:red; font-weight:bold;'>"              
+         ?>
         <div class="main">
                 <?= $news_item['text']; ?>
         </div>

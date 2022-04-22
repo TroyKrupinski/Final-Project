@@ -26,6 +26,7 @@ using MVC to create a web app whilst implementing bootstrap, jquery and ajax
                         <li><a href="about">About</a></li>
                         <li><a href="contact">Contact</a></li>
                         <li><a href="news">News</a></li>
+                        <li><a href="Final">Final Project</a></li>
   
                        
                 </nav>
