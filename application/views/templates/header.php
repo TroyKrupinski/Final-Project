@@ -15,7 +15,7 @@ using MVC to create a web app whilst implementing bootstrap, jquery and ajax
 
         <link href="assets/css/main.css" rel="stylesheet">
 
-        <title>Project 8</title>
+        <title>FINAL PROJECT</title>
         
         <nav class="navbar navbar-inverse">
                 <div class="container">

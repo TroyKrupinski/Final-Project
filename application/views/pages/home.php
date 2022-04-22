@@ -4,11 +4,12 @@ Coding 07
 using MVC to create a web app whilst implementing bootstrap, jquery and ajax
 ------------------- -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>  -->
 <!-- For some reason, linking from googleapis is the only way to make this program run properly.
 but haven't been able to properly diagnose it. -->
-<link href="assets/css/bootstrap4.1.3.css" rel="stylesheet">
 <script src = "assets/js/script.js"></script>
+
+<link href="assets/css/bootstrap4.1.3.css" rel="stylesheet">
 <link href = "assets/css/train.css" rel="stylesheet">
 </head>
 <div class = "to-top">
