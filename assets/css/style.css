@@ -1,0 +1,74 @@
+.title{
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+    padding: 40px;
+    color: white;
+    margin: 20px;
+    
+}
+.gamerules{
+    font-weight: bold;
+    color: green;
+    font-size: 20px;
+    position: relative;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: #ff9933;
+    left: 20px;
+
+}
+body{
+   
+    background-image: url("../images/background.jpg");
+}
+.value{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+
+}
+.wins{
+    float: left;
+    position: relative;
+    left: 350px;
+    top: -220px;
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+}
+.row{
+    position: relative;
+    right: 70px;
+}
+.total{
+   text-align: left;
+    background-color: green;
+    width: 320px;
+    height: 30px;
+    margin: 20px;
+    color: white;
+    font-weight: bold;
+}
+.score{
+    width: 300px;
+    height: 200px;
+    background-color: teal;
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}

@@ -4,7 +4,7 @@
 <link href="assets/css/bootstrap3.3.7.css" rel="stylesheet">
 
 <h2><?=$title;?></h2>
-<!-- not sure what to do here -->
+<!-- not sure what to do here, I do not agree with DOC here. -->
 <?php foreach ($news as $news_item): ?>
 
         <h3><?= $news_item['title']; ?></h3>
