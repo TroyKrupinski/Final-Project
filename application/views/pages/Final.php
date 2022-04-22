@@ -5,10 +5,10 @@
   <title>GifTastic!</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  
-  <link href = "Assets/css/style.css" rel = "stylesheet">
- <script src="Assets/javascript/fscript.js"></script>
+    <link href="assets/css/bootstrap3.3.7.css" rel="stylesheet"> 
+
+  <link href = "assets/css/fstyle.css" rel = "stylesheet">
+ <script src="assets/js/fscript.js"></script>
  
 </head>
 
@@ -23,7 +23,7 @@
 
  
     <form id="Gif-form">
-      <label for="gif-input">Search for a Gif! Add \</label>
+      <label for="gif-input">Search for a Gif and it adds a button!</label>
       <input type="text" id="gif-input"><br>
 
 

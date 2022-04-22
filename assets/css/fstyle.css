@@ -1,19 +1,10 @@
-body{
-    background: url('https://szftlgs.com/wp-content/uploads/data/2018/1/9/wallpaper-background-desktop-black-balls-pokemon-animated-cartoon-PIC-WSW10813762.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: white;
-  
-  }
-        
+    
       
       .buttons{
         margin: 5px;
       }
       .rati{
-        color:white;
+        color:rgb(255, 144, 144);
         font-size: 20px;
        font-weight: bold;
       }
@@ -23,12 +14,33 @@ body{
         border-radius: 5px;
   
       }
-  
       h1{
-        color: white;
-      }
+        color: #66a3ff;
+        
+    }
+    body{
+      background: url('../images/bg.png') center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      color: rgb(110, 102, 161);
+          
+    }
+    h2{
+        color: turquoise;
+    }
+    
       .source{
         font-size: 12px;
       }
       
-  
+  .title{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight:bolder;
+  }
+  .id{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight:lighter;
+}
+.source{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight:lighter;
+}
