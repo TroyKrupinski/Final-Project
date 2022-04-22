@@ -1,0 +1,34 @@
+body{
+    background: url('https://szftlgs.com/wp-content/uploads/data/2018/1/9/wallpaper-background-desktop-black-balls-pokemon-animated-cartoon-PIC-WSW10813762.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+  
+  }
+        
+      
+      .buttons{
+        margin: 5px;
+      }
+      .rati{
+        color:white;
+        font-size: 20px;
+       font-weight: bold;
+      }
+      .border{
+        border-color: gray;
+        border-style: dashed;
+        border-radius: 5px;
+  
+      }
+  
+      h1{
+        color: white;
+      }
+      .source{
+        font-size: 12px;
+      }
+      
+  
