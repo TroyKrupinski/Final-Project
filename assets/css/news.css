@@ -1,0 +1,19 @@
+h3{
+    text-align: center;
+    
+}
+body{
+    background-image: url("../images/background.png");
+      
+}
+h2{
+    color: turquoise;
+}
+.main{
+    font-size: larger;
+    text-align: center;
+    text-decoration-color: aqua;
+    color:blueviolet;
+    font-family:'Courier New', Courier, monospace
+
+}

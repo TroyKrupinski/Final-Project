@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(black, white);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: gray;
+
+}
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+.to-top{
+ 
+  position: sticky;
+  right: 0;
+  top: 0;
+  float: right;
+  
+}
